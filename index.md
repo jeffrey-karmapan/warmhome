@@ -1,3 +1,5 @@
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=34324940&auto=1&height=66"></iframe>
+
 光阴荏苒，日月递嬗。岁月的寒暑中，我们沐浴着相同的猎猎季风，迎接着相同的节气变换。枫叶分给我们相等的红，天空点给我的同样的蓝。而秋来蒹霞露冷，给我们以相似的苍凉和风烟。
 
 一念花开，一念花落。这山长水远的尘世，再深的记忆也会搁浅，再美的花儿也会凋残。 转瞬间，多少三生石上长满苔藓，多少沧浪之海变成桑田。
